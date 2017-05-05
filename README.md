@@ -4,5 +4,4 @@ Big Data in AirQuality Analysis
 * HTML, CSS3, Bootstrap, jQuery
 
 ### Back end
-* Django, Python
-
+* Apache Spark, Django, Python
