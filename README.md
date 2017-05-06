@@ -5,3 +5,7 @@ Big Data in AirQuality Analysis
 
 ### Back end
 * Apache Spark, Django, Python
+
+### Dataset
+
+* From UCI repository
