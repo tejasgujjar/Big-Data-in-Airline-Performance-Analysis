@@ -4,7 +4,7 @@ Big Data in Airline Performance Analysis
 * HTML, CSS3, Bootstrap, jQuery
 
 ### Back end
-* Apache Spark, Django, Python
+* Apache Spark, Django, Python, Zeppelin
 
 ### Dataset
 
